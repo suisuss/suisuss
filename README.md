@@ -16,4 +16,8 @@
 **Docker Images:**
 - [ubuntu-20.04.3-live-server](https://hub.docker.com/r/suisuss/ubuntu-20.04.3-live-server)
 
+### Other things
 
+```
+PS1='\n------\n\n\[$(tput bold)\][\[$(tput sgr0)\] \[$(tput bold)\]\d\[$(tput sgr0)\] \[$(tput bold)\]\t\[$(tput sgr0)\] \[$(tput bold)\]]\[$(tput sgr0)\]\n\[$(tput bold)\][\[$(tput sgr0)\] \[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;6m\]\u@\h\[$(tput sgr0)\]:\[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;228m\]\w\[$(tput sgr0)\] \[$(tput bold)\]]\[$(tput sgr0)\] \[$(tput bold)\]\\$\[$(tput sgr0)\] \[$(tput sgr0)\'
+```
