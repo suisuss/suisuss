@@ -9,10 +9,11 @@
 ### Things You May Find Useful
 
 **Repositories:**
-- [vault](https://github.com/suisuss/vault)
 - [notes](https://github.com/suisuss/notes)
+- [resources](https://github.com/suisuss/resources)
 - [utils](https://github.com/suisuss/utils)
 - [ts-workflow](https://github.com/suisuss/ts-workflow)
+- [vault](https://github.com/suisuss/vault)
 
 **Docker Images:**
 - [ubuntu-20.04.3-live-server](https://hub.docker.com/r/suisuss/ubuntu-20.04.3-live-server)
