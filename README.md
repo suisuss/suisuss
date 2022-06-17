@@ -13,6 +13,7 @@
 - [resources](https://github.com/suisuss/resources)
 - [utils](https://github.com/suisuss/utils)
 - [ts-workflow](https://github.com/suisuss/ts-workflow)
+- [truffle-workflow](https://github.com/suisuss/truffle-workflow)
 - [vault](https://github.com/suisuss/vault)
 
 **Docker Images:**
